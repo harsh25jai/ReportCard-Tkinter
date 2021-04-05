@@ -19,4 +19,4 @@ Asks to enter Name of School\
 Then some details for School, Class, Teacher, and Student\
 Seeks info for Term (SA1\SA2) or Assessment (FA1\FA2\FA3\FA4) marks will be given.\
 Have different present of subjects according to classes for 1-10, 11-12 Commerce, 11-12 Science.\
-Generates a Digital Tkinter GUI Report Card, also has a copy of same saved in RollNo+Section+Class.txt file.\
+Generates a Digital Tkinter GUI Report Card, also has a copy of same saved in RollNo+Section+Class.txt file.
